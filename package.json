@@ -1,0 +1,17 @@
+{
+  "name": "auth-lib-bff",
+  "version": "1.0.0",
+  "description": "Library for auth implementation with - Azure ADB2C - PKCE FLOW",
+  "main": "index.ts",
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "author": "Sivaprakash Rajaram",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.13"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}

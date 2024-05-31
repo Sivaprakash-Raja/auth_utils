@@ -1,0 +1,28 @@
+{
+    "name": "@srajar/auth_utils",
+    "version": "0.0.1",
+    "description": "A test auth provider utils",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "utils",
+      "utilities"
+    ],
+    "author": "Sivaprakash Rajaram",
+    "license": "MIT",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": ""
+  }
